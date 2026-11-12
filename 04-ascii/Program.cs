@@ -39,7 +39,7 @@ void imprimirVetores()
 
 do
 {
-    Console.WriteLine("\n\n******** MENU DE OPÇÕES********\n\t[1] popular vetor\n\t[2] imprimir vetor\n\t[3] sair");
+    Console.WriteLine("\n\n******** MENU DE OPÇÕES********\n\t[1] popular vetores\n\t[2] imprimir vetores\n\t[3] sair");
     opcao = int.Parse(Console.ReadLine());
     Console.WriteLine("\n");
 

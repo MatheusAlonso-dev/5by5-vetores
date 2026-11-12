@@ -72,7 +72,7 @@ void imprimirVetores()
 
 do
 {
-    Console.WriteLine("\n\n******** MENU DE OPÇÕES********\n\t[1] popular vetor\n\t[2] imprimir vetor\n\t[3] imprimir vetor inverso\n\t[4] sair");
+    Console.WriteLine("\n\n******** MENU DE OPÇÕES********\n\t[1] popular vetores\n\t[2] imprimir vetores\n\t[3] sair");
     opcao = int.Parse(Console.ReadLine());
     Console.WriteLine("\n");
 
@@ -85,8 +85,6 @@ do
             imprimirVetores();
             break;
         case 3:
-            break;
-        case 4:
             break;
         default: break;
 
