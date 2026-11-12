@@ -28,7 +28,7 @@ void imprimirVetorInverso()
 
 do
 {
-    Console.WriteLine("\n******** MENU DE OPÇÕES********\n\t[1] popular vetor\n\t[2] imprimir vetor\n\t[3] imprimir vetor inverso\n\t[4] sair");
+    Console.WriteLine("\n\n******** MENU DE OPÇÕES********\n\t[1] popular vetor\n\t[2] imprimir vetor\n\t[3] imprimir vetor inverso\n\t[4] sair");
     opcao = int.Parse(Console.ReadLine());
     Console.WriteLine("\n");
 
