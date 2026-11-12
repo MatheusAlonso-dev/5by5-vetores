@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="01-vetorInverso/01-vetorInverso.csproj" Id="3638b065-1259-4478-9c38-1a174ee16f8b" />
   <Project Path="02-copiaVetor/02-copiaVetor.csproj" Id="b2431ff6-5cf7-4f4c-bf92-9aecbe263aaf" />
+  <Project Path="03-fibonacciDinamica/03-fibonacciDinamica.csproj" Id="0d323a72-95a4-404e-a013-ca619faa0fbb" />
   <Project Path="vetores/vetores.csproj" />
 </Solution>
