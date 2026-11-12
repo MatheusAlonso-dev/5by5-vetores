@@ -9,6 +9,7 @@ Console.WriteLine("\tASCII\n");
 
 void popularVetores()
 {
+    contadorVetor2 = 0;
     for (int i = 0; i < n; i++)
     {
         Console.Write($"digite o {i + 1}º item(CHAR): ");
@@ -31,7 +32,7 @@ void imprimirVetores()
     }
 
     Console.Write("\n\nvetor 2 --->\t");
-    for (int i = 0; i < n; i++)
+    for (int i = 0; i < n*2; i++)
     {
         Console.Write(vetor2[i] + " ");
     }
